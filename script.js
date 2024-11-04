@@ -205,6 +205,5 @@ function moveBall() {
     ball.style.top = posBall.y + 'px';
     ball.style.left = posBall.x + 'px';
 
-
 }
 
